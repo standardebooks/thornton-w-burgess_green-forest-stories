@@ -53,8 +53,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4698</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/59282</dc:source>
 		<dc:source>https://archive.org/details/lightfootdeer00burg</dc:source>
-		<dc:source>https://archive.org/stream/blackycrow00burg</dc:source>
-		<dc:source>https://catalog.hathitrust.org/Record/100592274</dc:source>
+		<dc:source>https://archive.org/details/blackycrow00burg</dc:source>
+		<dc:source>https://archive.org/details/whitefootwoodmou00burg</dc:source>
 		<dc:source>https://archive.org/details/busterbearstwins00burg</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
