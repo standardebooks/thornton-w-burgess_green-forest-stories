@@ -30,46 +30,74 @@
 		<dc:title id="title">Green Forest Stories</dc:title>
 		<meta property="file-as" refines="#title">Green Forest Stories</meta>
 		<dc:subject id="subject-1">Deer -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Forest animals -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Forest animals -- Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2008121042</meta>
+		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">This collection of four animal tales by Thornton W. Burgess features the denizens of the Green Forest.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;American naturalist and conservationist &lt;a href="https://standardebooks.org/ebooks/thornton-w-burgess"&gt;Thornton W. Burgess&lt;/a&gt; (1874–1965) was the author of more than one hundred books for children; the best-remembered of these is &lt;i&gt;Old Mother West Wind&lt;/i&gt;, which was originally written for his young son. Burgess also wrote dozens of books about the creatures of the northern North American forest, four of which are collected here as the &lt;i&gt;Green Forest Stories&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Green Forest Stories&lt;/i&gt; compilation focuses on Lightfoot the Deer, Blacky the Crow, Whitefoot the Wood Mouse, and twin bear cubs Woof-Woof and Boxer. Readers may have encountered these characters in other of Burgess’s stories about the “little people” of the Massachusetts forest. Burgess’s earliest ventures into animal fantasy are roughly contemporary with Rudyard Kipling’s Just So stories and Beatrix Potter’s Tales of various animals, and represent the most lasting American entry into this genre.&lt;/p&gt;
+			&lt;p&gt;Animal fantasy is a sub-genre of children’s literature in which animals are anthropomorphized into human-like characters and use language like humans. It is often criticized by those who want readers to experience more realistic representations of animals and the natural world, but animal fantasies engage a millennia-old tradition, in the Western canon reaching back at least as far as Aesop’s fables; animal characters feature in teaching stories for children (and adults) in cultures around the world. Burgess’s stories are intended for children in the early elementary grades. The challenges and triumphs of the “little people” in his stories will feel identifiable to many young readers, and the snippets of moralizing and authorial commentary interleaved with the actions of the plot reflect a teaching device with a long history.&lt;/p&gt;
+			&lt;p&gt;In the late twentieth century, Burgess fell out of favour with teachers and librarians. This shift occurred in part due to changing tastes in literary style and in part due to a changing society. Burgess is entirely a writer of his time. Most of the animals he depicts are male, and many of the female animals who wander into the stories are more passive and more stereotyped than the kinds of representation preferred for girls today. (Such is not the case, however, of Old Granny Fox, who may be the smartest of the little people Burgess represents and certainly does not lack agency or self-determination.)&lt;/p&gt;
+			&lt;p&gt;The style of Burgess’s storytelling is undeniably old-fashioned but still deserves consideration. Although the writing is often simple and plain, there are rhetorical flourishes that reveal the author’s attention to craft. In particular, Burgess’s use of formulaic expressions such as “jolly, round, bright Mr. Sun” and “the Merry Little Breezes” links these tales to an orality that stretches back to at least &lt;i&gt;The Iliad&lt;/i&gt; and &lt;i&gt;The Odyssey&lt;/i&gt; of Homer (think of phrases such as “the wine-dark sea,” “rosy-fingered Dawn,” and “bright-eyed Athena”). Through his broader use of repetition and through onomatopoeia, Burgess underscores characteristics of his characters’ real-life forest counterparts — the way a chickadee calls, a squirrel scolds, or a rabbit lopes, for example.&lt;/p&gt;
+			&lt;p&gt;In these stories, as in the &lt;i&gt;Green Meadow Stories&lt;/i&gt; collection, we observe features that signal Burgess’s experience as a writer for periodicals and as an early radio broadcaster. Each chapter begins with reminders about the previous chapter, and chapters end with either a strong, propulsive conclusion or a traditional cliff-hanger. The chapters are generally quite short — a comfortable size to read as a bedtime story, and just long enough to hold a new reader’s attention without demanding too much of that reader’s energy. The strong narrative voice sounds distinctly like oral storytelling. One can almost imagine a small group of young people seated in a circle at the storyteller’s feet.&lt;/p&gt;
+			&lt;p&gt;That image captures the essence of these animal tales. They are light, bright peeks into a complex and beautiful world, a world any girl or boy may want to pursue through study or personal explorations. As humanity faces the daily loss of animal species, stories that delight readers and listeners, that encourage them to learn about and respect the creatures of the non-human world, deserve our renewed attention and respect.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4670</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://www.gutenberg.org/ebooks/4979</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/4698</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/59282</dc:source>
+		<dc:source>https://archive.org/details/lightfootdeer00burg</dc:source>
+		<dc:source>https://archive.org/stream/blackycrow00burg</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100592274</dc:source>
+		<dc:source>https://archive.org/details/busterbearstwins00burg</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thornton-w-burgess_green-forest-stories</meta>
 		<dc:creator id="author">Thornton W. Burgess</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Burgess, Thornton W. </meta>
+		<meta property="se:name.person.full-name" refines="#author">Thornton Waldo Burgess</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thornton_W._Burgess</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79138563</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">W. Herbert Dunton</dc:contributor>
+		<meta property="file-as" refines="#artist">Dunton, W. Herbert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/W._Herbert_Dunton</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n84105881</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Kent Fielden.  HTML version by Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-1">Kent Fielden</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Fielden, Kent</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-1">David E. Brown</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Brown, David E.</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">L. A. Vermeer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Vermeer, L. A.</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://readingwithapencil.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -78,7 +106,12 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/book-1.xhtml" id="book-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-2.xhtml" id="book-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-3.xhtml" id="book-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-4.xhtml" id="book-4.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
@@ -86,6 +119,11 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="book-1.xhtml"/>
+		<itemref idref="book-2.xhtml"/>
+		<itemref idref="book-3.xhtml"/>
+		<itemref idref="book-4.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
