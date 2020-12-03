@@ -2,8 +2,11 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* All dedications */
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
 section[epub|type~="dedication"] > *{
-	display: inline-block;
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
@@ -25,6 +28,11 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
+
+
+section[epub|type~="dedication"] > p{
+	margin-top: 1em;
+}
 
 /* All epigraphs */
 [epub|type~="epigraph"]{
