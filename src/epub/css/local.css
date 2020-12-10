@@ -29,7 +29,6 @@ section[epub|type~="dedication"] > *{
 }
 /* End all dedications */
 
-
 section[epub|type~="dedication"] > p{
 	margin-top: 1em;
 }
