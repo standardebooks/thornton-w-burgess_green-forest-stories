@@ -34,7 +34,7 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008121042</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A collection of four animal tales featuring the denizens of the Green Forest.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
